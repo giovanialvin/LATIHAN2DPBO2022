@@ -18,6 +18,6 @@ Saya Alvin Giovani 2003721 mengerjakan tugas LATIHAN2 dalam mata kuliah Desain d
   Cooming Soon <br>
 
   Poin B.py </b><br>
-  Cooming Soon <br>
+  <b>Cooming Soon <br>
 
 <br>
