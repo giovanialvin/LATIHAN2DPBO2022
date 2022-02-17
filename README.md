@@ -12,7 +12,8 @@ Saya Alvin Giovani 2003721 mengerjakan tugas LATIHAN2 dalam mata kuliah Desain d
 ![image](https://user-images.githubusercontent.com/99602640/154203262-7d2919d8-e45e-48af-93d8-3113ced57a4c.png)
 
   Poin B.cpp  <br>
-  Cooming Soon <br>
+  ![image](https://user-images.githubusercontent.com/99602640/154405633-ecd2b507-f3ac-4bdd-ba0a-be3640618e3b.png)
+
   
   Poin B.php  <br>
   Cooming Soon <br>
