@@ -1,18 +1,22 @@
 public class Memory extends Hardware 
-{
+{   
+    //Deklarasi Atribut
     private String frequency;
     private String memorySize;
     private String supportsCuda;
-
+    
+    //Constructor
     public Memory(String frequency, String memorySize, String supportsCuda) {
         this.frequency = frequency;
         this.memorySize = memorySize;
         this.supportsCuda = supportsCuda;
     }
-
+    
+    //Constructor Kosong
     public Memory() {
     }
 
+    //Get Set Methods
     public String getSupportsCuda() {
         return supportsCuda;
     }
@@ -33,7 +37,8 @@ public class Memory extends Hardware
     public void setSupportsCuda(String supportsCuda) {
         this.supportsCuda = supportsCuda;
     }
-
+    
+    //Output Method
     public void output_memory(){
         System.out.println("Id Product          : "+ this.getId_Product());
         System.out.println("Price               : "+ this.getPrice());
