@@ -1,21 +1,26 @@
 #include<string>
 #include<iostream>
 #include<string>
+//Include file parents
 #include"Hardware.cpp"
 
 using namespace std;
 
+
 class Memory : public Hardware{
     private :
+        //Deklarasi Atribut
         string frequency;
         string memorySize;
         string supportCuda;
         
     public :
+        //Constructor
         Memory(){
 
         }
-
+        
+        //Get Set Methods
         void setFrequency(string frequency){
             this->frequency = frequency;
         }
@@ -40,7 +45,7 @@ class Memory : public Hardware{
             return this->supportCuda;
         }
 
-
+        //Output Methods
         void output_Memory(){
             cout << "Id Product                 : " << this->getId_Product() << endl;
             cout << "Price                      : " << this->getPrice() << endl;
@@ -50,7 +55,9 @@ class Memory : public Hardware{
             cout << "Memory Size                : " << this->getMemorySize() << endl;
             cout << "Support Cuda               : " << this->getSupportCuda() << endl;
         }
-
+        
+    
+        //Destructor
         ~Memory(){
 
         }
