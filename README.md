@@ -16,7 +16,7 @@ Saya Alvin Giovani 2003721 mengerjakan tugas LATIHAN2 dalam mata kuliah Desain d
 
   
   Poin B.php  <br>
-  Cooming Soon <br>
+  ![image](https://user-images.githubusercontent.com/99602640/154616703-f0e3e84f-6d1f-4318-9319-a43183e3a7bf.png)
 
   Poin B.py </b><br>
   <b>Cooming Soon <br>
